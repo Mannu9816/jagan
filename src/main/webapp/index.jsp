@@ -8,8 +8,8 @@
 <body>
   <div class="jumbotron" style="background-color:pink">
      <h1 class="text-center">Welcome to</h1>
-      <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins__image.png" alt="Spidertocat"
-           class="img-responsive center-block" style="width:250px"/>
+      <img src="C:\Users\Sony\Desktop\1553538949113_vinnu.png" alt="Spidertocat"
+           class="img-responsive center-block" style="width:290px"/>
       <h1 class="text-center"> MY WORK IN JENKINS</h1>
       <h2 class="text-center">THIS IS  MANVITHA SREE</h2>
   </div>
